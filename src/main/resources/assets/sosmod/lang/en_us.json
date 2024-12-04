@@ -1,0 +1,192 @@
+{
+  "itemgroup.smp_on_sea": "Smp on sea",
+
+  "block.sosmod.dripstone_stairs": "Dripstone Stairs",
+  "block.sosmod.dripstone_slab": "Dripstone Slab",
+  "block.sosmod.dripstone_wall": "Dripstone Wall",
+  "block.sosmod.packed_mud_stairs": "Packed Mud Stairs",
+  "block.sosmod.packed_mud_slab": "Packed Mud Slab",
+  "block.sosmod.packed_mud_wall": "Packed Mud Wall",
+  "block.sosmod.block_of_charcoal": "Block of Charcoal",
+  "block.sosmod.honeycomb_block_stairs": "Honeycomb Block Stairs",
+  "block.sosmod.honeycomb_block_slab": "Honeycomb Block Slab",
+  "block.sosmod.honeycomb_block_wall": "Honeycomb Block Wall",
+
+  "block.sosmod.smooth_basalt_stairs": "Smooth Basalt Stairs",
+  "block.sosmod.smooth_basalt_slab": "Smooth Basalt Slab",
+  "block.sosmod.smooth_basalt_wall": "Smooth Basalt Wall",
+  "block.sosmod.clay_stairs": "Clay Stairs",
+  "block.sosmod.clay_slab": "Clay Slab",
+  "block.sosmod.clay_wall": "Clay Wall",
+  "block.sosmod.quartz_bricks_stairs": "Quartz Bricks Stairs",
+  "block.sosmod.quartz_bricks_slab": "Quartz Bricks Slab",
+  "block.sosmod.quartz_bricks_wall": "Quartz Bricks Wall",
+  "block.sosmod.netherrack_stairs": "Netherrack Stairs",
+  "block.sosmod.netherrack_slab": "Netherrack Slab",
+  "block.sosmod.netherrack_wall": "Netherrack Wall",
+  "block.sosmod.end_stone_stairs": "End Stone Stairs",
+  "block.sosmod.end_stone_slab": "End Stone Slab",
+  "block.sosmod.end_stone_wall": "End Stone Wall",
+
+
+
+  "block.sosmod.terracotta_stairs": "Terracotta Stairs",
+  "block.sosmod.terracotta_slab": "Terracotta Slab",
+  "block.sosmod.terracotta_wall": "Terracotta Wall",
+
+  "block.sosmod.white_terracotta_stairs": "White Terracotta Stairs",
+  "block.sosmod.white_terracotta_slab": "White Terracotta Slab",
+  "block.sosmod.white_terracotta_wall": "White Terracotta Wall",
+
+  "block.sosmod.light_gray_terracotta_stairs": "Light Gray Terracotta Stairs",
+  "block.sosmod.light_gray_terracotta_slab": "Light Gray Terracotta Slab",
+  "block.sosmod.light_gray_terracotta_wall": "Light Gray Terracotta Wall",
+
+  "block.sosmod.gray_terracotta_stairs": "Gray Terracotta Stairs",
+  "block.sosmod.gray_terracotta_slab": "Gray Terracotta Slab",
+  "block.sosmod.gray_terracotta_wall": "Gray Terracotta Wall",
+
+  "block.sosmod.black_terracotta_stairs": "Black Terracotta Stairs",
+  "block.sosmod.black_terracotta_slab": "Black Terracotta Slab",
+  "block.sosmod.black_terracotta_wall": "Black Terracotta Wall",
+
+  "block.sosmod.brown_terracotta_stairs": "Brown Terracotta Stairs",
+  "block.sosmod.brown_terracotta_slab": "Brown Terracotta Slab",
+  "block.sosmod.brown_terracotta_wall": "Brown Terracotta Wall",
+
+  "block.sosmod.red_terracotta_stairs": "Red Terracotta Stairs",
+  "block.sosmod.red_terracotta_slab": "Red Terracotta Slab",
+  "block.sosmod.red_terracotta_wall": "Red Terracotta Wall",
+
+  "block.sosmod.orange_terracotta_stairs": "Orange Terracotta Stairs",
+  "block.sosmod.orange_terracotta_slab": "Orange Terracotta Slab",
+  "block.sosmod.orange_terracotta_wall": "Orange Terracotta Wall",
+
+  "block.sosmod.yellow_terracotta_stairs": "Yellow Terracotta Stairs",
+  "block.sosmod.yellow_terracotta_slab": "Yellow Terracotta Slab",
+  "block.sosmod.yellow_terracotta_wall": "Yellow Terracotta Wall",
+
+  "block.sosmod.lime_terracotta_stairs": "Lime Terracotta Stairs",
+  "block.sosmod.lime_terracotta_slab": "Lime Terracotta Slab",
+  "block.sosmod.lime_terracotta_wall": "Lime Terracotta Wall",
+
+  "block.sosmod.green_terracotta_stairs": "Green Terracotta Stairs",
+  "block.sosmod.green_terracotta_slab": "Green Terracotta Slab",
+  "block.sosmod.green_terracotta_wall": "Green Terracotta Wall",
+
+  "block.sosmod.cyan_terracotta_stairs": "Cyan Terracotta Stairs",
+  "block.sosmod.cyan_terracotta_slab": "Cyan Terracotta Slab",
+  "block.sosmod.cyan_terracotta_wall": "Cyan Terracotta Wall",
+
+  "block.sosmod.light_blue_terracotta_stairs": "Light Blue Terracotta Stairs",
+  "block.sosmod.light_blue_terracotta_slab": "Light Blue Terracotta Slab",
+  "block.sosmod.light_blue_terracotta_wall": "Light Blue Terracotta Wall",
+
+  "block.sosmod.blue_terracotta_stairs": "Blue Terracotta Stairs",
+  "block.sosmod.blue_terracotta_slab": "Blue Terracotta Slab",
+  "block.sosmod.blue_terracotta_wall": "Blue Terracotta Wall",
+
+  "block.sosmod.purple_terracotta_stairs": "Purple Terracotta Stairs",
+  "block.sosmod.purple_terracotta_slab": "Purple Terracotta Slab",
+  "block.sosmod.purple_terracotta_wall": "Purple Terracotta Wall",
+
+  "block.sosmod.magenta_terracotta_stairs": "Magenta Terracotta Stairs",
+  "block.sosmod.magenta_terracotta_slab": "Magenta Terracotta Slab",
+  "block.sosmod.magenta_terracotta_wall": "Magenta Terracotta Wall",
+
+  "block.sosmod.pink_terracotta_stairs": "Pink Terracotta Stairs",
+  "block.sosmod.pink_terracotta_slab": "Pink Terracotta Slab",
+  "block.sosmod.pink_terracotta_wall": "Pink Terracotta Wall",
+
+
+
+
+  "block.sosmod.white_concrete_stairs": "White Concrete Stairs",
+  "block.sosmod.white_concrete_slab": "White Concrete Slab",
+  "block.sosmod.white_concrete_wall": "White Concrete Wall",
+
+  "block.sosmod.light_gray_concrete_stairs": "Light Gray Concrete Stairs",
+  "block.sosmod.light_gray_concrete_slab": "Light Gray Concrete Slab",
+  "block.sosmod.light_gray_concrete_wall": "Light Gray Concrete Wall",
+
+  "block.sosmod.gray_concrete_stairs": "Gray Concrete Stairs",
+  "block.sosmod.gray_concrete_slab": "Gray Concrete Slab",
+  "block.sosmod.gray_concrete_wall": "Gray Concrete Wall",
+
+  "block.sosmod.black_concrete_stairs": "Black Concrete Stairs",
+  "block.sosmod.black_concrete_slab": "Black Concrete Slab",
+  "block.sosmod.black_concrete_wall": "Black Concrete Wall",
+
+  "block.sosmod.brown_concrete_stairs": "Brown Concrete Stairs",
+  "block.sosmod.brown_concrete_slab": "Brown Concrete Slab",
+  "block.sosmod.brown_concrete_wall": "Brown Concrete Wall",
+
+  "block.sosmod.red_concrete_stairs": "Red Concrete Stairs",
+  "block.sosmod.red_concrete_slab": "Red Concrete Slab",
+  "block.sosmod.red_concrete_wall": "Red Concrete Wall",
+
+  "block.sosmod.orange_concrete_stairs": "Orange Concrete Stairs",
+  "block.sosmod.orange_concrete_slab": "Orange Concrete Slab",
+  "block.sosmod.orange_concrete_wall": "Orange Concrete Wall",
+
+  "block.sosmod.yellow_concrete_stairs": "Yellow Concrete Stairs",
+  "block.sosmod.yellow_concrete_slab": "Yellow Concrete Slab",
+  "block.sosmod.yellow_concrete_wall": "Yellow Concrete Wall",
+
+  "block.sosmod.lime_concrete_stairs": "Lime Concrete Stairs",
+  "block.sosmod.lime_concrete_slab": "Lime Concrete Slab",
+  "block.sosmod.lime_concrete_wall": "Lime Concrete Wall",
+
+  "block.sosmod.green_concrete_stairs": "Green Concrete Stairs",
+  "block.sosmod.green_concrete_slab": "Green Concrete Slab",
+  "block.sosmod.green_concrete_wall": "Green Concrete Wall",
+
+  "block.sosmod.cyan_concrete_stairs": "Cyan Concrete Stairs",
+  "block.sosmod.cyan_concrete_slab": "Cyan Concrete Slab",
+  "block.sosmod.cyan_concrete_wall": "Cyan Concrete Wall",
+
+  "block.sosmod.light_blue_concrete_stairs": "Light Blue Concrete Stairs",
+  "block.sosmod.light_blue_concrete_slab": "Light Blue Concrete Slab",
+  "block.sosmod.light_blue_concrete_wall": "Light Blue Concrete Wall",
+
+  "block.sosmod.blue_concrete_stairs": "Blue Concrete Stairs",
+  "block.sosmod.blue_concrete_slab": "Blue Concrete Slab",
+  "block.sosmod.blue_concrete_wall": "Blue Concrete Wall",
+
+  "block.sosmod.purple_concrete_stairs": "Purple Concrete Stairs",
+  "block.sosmod.purple_concrete_slab": "Purple Concrete Slab",
+  "block.sosmod.purple_concrete_wall": "Purple Concrete Wall",
+
+  "block.sosmod.magenta_concrete_stairs": "Magenta Concrete Stairs",
+  "block.sosmod.magenta_concrete_slab": "Magenta Concrete Slab",
+  "block.sosmod.magenta_concrete_wall": "Magenta Concrete Wall",
+
+  "block.sosmod.pink_concrete_stairs": "Pink Concrete Stairs",
+  "block.sosmod.pink_concrete_slab": "Pink Concrete Slab",
+  "block.sosmod.pink_concrete_wall": "Pink Concrete Wall",
+
+
+  "block.sosmod.yellow_tulip": "Yellow Tulip",
+  "block.sosmod.magenta_tulip": "Magenta Tulip",
+  "block.sosmod.orange_yellow_tulip": "Orange Yellow Tulip",
+  "block.sosmod.purple_tulip": "Purple Tulip",
+  "block.sosmod.purple_yellow_tulip": "Purple Yellow Tulip",
+  "block.sosmod.red_white_tulip": "Red White Tulip",
+  "block.sosmod.rainbow_tulip": "Rainbow Tulip",
+
+  "block.sosmod.yellow_orchid": "Yellow Orchid",
+  "block.sosmod.pink_orchid": "Pink Orchid",
+  "block.sosmod.white_orchid": "White Orchid",
+  "block.sosmod.pink_yellow_orchid": "Pink Yellow Orchid",
+  "block.sosmod.purple_orchid": "Purple Orchid",
+  "block.sosmod.orange_orchid": "Orange Orchid",
+  "block.sosmod.green_orchid": "Green Orchid",
+  "block.sosmod.magenta_white_orchid": "Magenta White Orchid",
+  "block.sosmod.red_orchid": "Red Orchid",
+
+  "block.sosmod.pink_lily_of_the_valley": "Pink Lily of the Valley"
+
+
+
+
+}
